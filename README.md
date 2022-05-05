@@ -1,16 +1,9 @@
-# open_dialog_in_widget_render
+# Flutter PRO tip #0: Open dialog at startup
 
-A new Flutter project.
+This project is a sample on how to open a dialog in a widget startup.
 
-## Getting Started
+You can see the explanatory article [here](https://davidserrano.io/flutter-pro-tip-0-open-a-dialog-at-startup).
 
-This project is a starting point for a Flutter application.
+You can find the video version of the tutorial on [Youtube](https://youtu.be/bApL7SjTGlw) and [Odysee](https://odysee.com/@svprdga:d/flutter-pro-tip-0-open-a-dialog-at-startup).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you are interested visit my [blog](https://davidserrano.io/) to see other tutorials and articles related to mobile programming.
