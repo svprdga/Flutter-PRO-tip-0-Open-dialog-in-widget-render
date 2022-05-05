@@ -1,0 +1,20 @@
+name: open_dialog_in_widget_render
+description: Flutter PRO tip 0 - Open dialog in widget render
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.16.2 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lint: ^1.8.2
+
+flutter:
+  uses-material-design: true
